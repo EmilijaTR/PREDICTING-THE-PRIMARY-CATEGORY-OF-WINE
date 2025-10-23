@@ -24,3 +24,8 @@ A machine learning project that accurately predicts wine category (red vs. white
 | Logistic Regression | 97.3% | 97.2% |
 | Decision Tree | 97.8% | 97.3% |
 | K-Nearest Neighbors | 92.7% | 98.1% |
+
+## Presentation
+
+- **[Slides Deck](primatijada2024.pdf)** - Project overview and key findings
+- **[Research Paper](Predicting_the_primary_category_of_wine_based_on_physicochemical_qualities.pdf)** - Detailed methodology and analysis
